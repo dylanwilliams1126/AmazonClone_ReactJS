@@ -15,7 +15,7 @@ This is a new [**React JS**](https://react.dev/) project, bootstrapped using [`t
 
 Welcome to my project! Below are my favorite videos & screenshots related to this project:
 
-<img src="https://github.com/codecrafts1128/AmazonClone_ReactJS/blob/master/public/screens/1.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/codecrafts1128/AmazonClone_ReactJS/blob/master/public/screens/2.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/codecrafts1128/AmazonClone_ReactJS/blob/master/public/screens/3.png" width="250" alt="Screen 4" hspace="5">
+<img src="https://github.com/dylanwilliams1126/AmazonClone_ReactJS/blob/master/public/screens/1.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/dylanwilliams1126/AmazonClone_ReactJS/blob/master/public/screens/2.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/dylanwilliams1126/AmazonClone_ReactJS/blob/master/public/screens/3.png" width="250" alt="Screen 4" hspace="5">
 
 ## Getting Started with Create React App
 
@@ -113,4 +113,4 @@ You've successfully run and modified your React Js App. :partying_face:
 
 ## License
 
-Amazon Clone Website is licensed under [The MIT License](LICENSE) © Silas Jones 2023-
+Amazon Clone Website is licensed under [The MIT License](LICENSE) © Dylan Williams 2023-
